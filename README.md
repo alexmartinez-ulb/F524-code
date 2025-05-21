@@ -8,3 +8,4 @@ There are 4 code snippets:
      - https://www.kaggle.com/datasets/spscientist/students-performance-in-exams 
 
 The whole code is designed to run on google colab. 
+To use locally, just replace the path in the "Code_F524" to fit where you downloaded the preprocessed dataset.
