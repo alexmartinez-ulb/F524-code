@@ -9,4 +9,4 @@ There are 4 code snippets:
      - https://www.kaggle.com/datasets/camnugent/california-housing-prices
 
 The whole code is designed to run on google colab. 
-To use locally, just replace the paths in the "Code_F524" to fit where you downloaded the preprocessed datasets.
+To use locally, just replace the paths in the "Code_F524" to fit where you downloaded the preprocessed datasets and delete the 4th cell of "Code_F524"
